@@ -5,7 +5,7 @@
 项目地址:https://v2ray6.com/post/1/
 <br/>
 <br/>
-git clone https://github.com/konjack/v2ray
+git clone https://github.com/jaquae/v2ray
 <br/>
 cd v2ray
 <br/>
